@@ -1,2 +1,2 @@
 test
-260305: AI成功连接Server，但build仍有部分功能错误
+260305: AI成功连接Server，语音功能正常，build有误，部分功能失常
